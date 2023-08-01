@@ -1,0 +1,19 @@
+[
+    {
+        "id": 91,
+        "img": "/data/upload/3/7d81fe5e-red-purple-silver-gold-9.jpg",
+        "kp-1": [
+            {
+                "x": 9.707446808510637,
+                "y": 48.61858573216521,
+                "width": 0.26595744680851063,
+                "keypointlabels": [
+                    "Red"
+                ],
+                "original_width": 1151,
+                "original_height": 85
+            }
+        ],
+        "predictions": []
+    }
+]

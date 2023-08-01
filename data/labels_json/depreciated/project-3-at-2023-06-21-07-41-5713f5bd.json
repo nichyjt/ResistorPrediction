@@ -1,0 +1,3943 @@
+[
+  {
+    "img": "\/data\/upload\/3\/13f3a2af-blue-grey-silver-gold-0.jpg",
+    "id": 1,
+    "kp-1": [
+      {
+        "x": 6.382978723404255,
+        "y": 52.72815469021812,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 8.377659574468085,
+        "y": 50.00083634417236,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 10.23936170212766,
+        "y": 51.819048574869534,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 30.319148936170215,
+        "y": 33.63692626789776,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 32.180851063829785,
+        "y": 32.72782015254918,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 34.308510638297875,
+        "y": 32.72782015254918,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 56.11702127659575,
+        "y": 31.81871403720059,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 57.97872340425532,
+        "y": 29.091395691154826,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 87.5,
+        "y": 43.63709353673223,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 85.63829787234043,
+        "y": 39.0915629599893,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2023-06-21T07:24:18.347675Z",
+    "updated_at": "2023-06-21T07:24:18.347704Z",
+    "lead_time": 39.418
+  },
+  {
+    "img": "\/data\/upload\/3\/df83b07a-blue-grey-silver-gold-1.jpg",
+    "id": 2,
+    "kp-1": [
+      {
+        "x": 9.848072096533615,
+        "y": 18.446601941747574,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 11.977384982270612,
+        "y": 17.475728155339805,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 32.20585739677209,
+        "y": 17.475728155339805,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 33.80284206107484,
+        "y": 16.50485436893204,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 58.28994024705031,
+        "y": 19.41747572815534,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 56.29370941667188,
+        "y": 21.35922330097087,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 85.83792570627273,
+        "y": 29.126213592233007,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      },
+      {
+        "x": 83.97477693125285,
+        "y": 28.155339805825243,
+        "width": 0.26616411071712476,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 149
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2023-06-21T07:25:43.490052Z",
+    "updated_at": "2023-06-21T07:25:43.490082Z",
+    "lead_time": 12.123
+  },
+  {
+    "img": "\/data\/upload\/3\/18b012bb-blue-grey-silver-gold-2.jpg",
+    "id": 3,
+    "kp-1": [
+      {
+        "x": 10.23936170212766,
+        "y": 25.560294499221587,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 11.436170212765957,
+        "y": 24.678905033731187,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 14.095744680851062,
+        "y": 24.678905033731187,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 32.180851063829785,
+        "y": 26.441683964711988,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 33.909574468085104,
+        "y": 23.79751556824079,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 36.3031914893617,
+        "y": 26.441683964711988,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 30.319148936170215,
+        "y": 23.79751556824079,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 57.71276595744681,
+        "y": 22.91612610275039,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 59.840425531914896,
+        "y": 22.91612610275039,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 87.5,
+        "y": 26.441683964711988,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 85.77127659574468,
+        "y": 29.075364324682017,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      },
+      {
+        "x": 83.77659574468085,
+        "y": 29.085852361183186,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 164
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2023-06-21T07:26:06.459035Z",
+    "updated_at": "2023-06-21T07:26:06.459059Z",
+    "lead_time": 21.727
+  },
+  {
+    "img": "\/data\/upload\/3\/107d0210-blue-grey-silver-gold-3.jpg",
+    "id": 4,
+    "kp-1": [
+      {
+        "x": 3.0659181795993464,
+        "y": 42.857142857142854,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 4.798828455025064,
+        "y": 41.83673469387755,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 6.665039520868145,
+        "y": 41.83673469387755,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 8.131348215459136,
+        "y": 39.795918367346935,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 28.792970730150387,
+        "y": 36.734693877551024,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 30.125978634324014,
+        "y": 33.6734693877551,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 31.992189700167096,
+        "y": 34.69387755102041,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 54.65332407111879,
+        "y": 30.612244897959183,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 56.386234346544505,
+        "y": 26.53061224489796,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 82.2465876875129,
+        "y": 37.755102040816325,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 83.44629480126918,
+        "y": 34.69387755102041,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 85.31250586711225,
+        "y": 33.6734693877551,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2023-06-21T07:26:23.722826Z",
+    "updated_at": "2023-06-21T07:26:23.722857Z",
+    "lead_time": 16.228
+  },
+  {
+    "img": "\/data\/upload\/3\/27084157-blue-grey-silver-gold-4.jpg",
+    "id": 5,
+    "kp-1": [
+      {
+        "x": 9.99875259226919,
+        "y": 27.11864406779661,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 12.26513651318354,
+        "y": 23.728813559322035,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 13.598392369745227,
+        "y": 27.966101694915253,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 8.132318775045608,
+        "y": 22.88135593220339,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 32.12932499649167,
+        "y": 31.35593220338983,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 33.86244211248499,
+        "y": 29.66101694915254,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 35.862192630938836,
+        "y": 33.05084745762712,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 59.99251555361514,
+        "y": 16.94915254237288,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 57.85944833393105,
+        "y": 22.033898305084744,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 89.05555642181092,
+        "y": 30.508474576271187,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      },
+      {
+        "x": 91.18862364149501,
+        "y": 28.8135593220339,
+        "width": 0.26663340246051176,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 171
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2023-06-21T07:26:47.111336Z",
+    "updated_at": "2023-06-21T07:26:47.111363Z",
+    "lead_time": 22.533
+  },
+  {
+    "img": "\/data\/upload\/3\/e5abb8dd-blue-grey-silver-gold-5.jpg",
+    "id": 6,
+    "kp-1": [
+      {
+        "x": 8.137074517019318,
+        "y": 21,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 9.871391978476705,
+        "y": 22,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 32.28150873965041,
+        "y": 40,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 34.01563937442502,
+        "y": 37,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 56.02575896964122,
+        "y": 25,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 57.493100275988965,
+        "y": 23,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 85.77276908923642,
+        "y": 36,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 87.64029438822448,
+        "y": 36,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      },
+      {
+        "x": 89.37442502299908,
+        "y": 36,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 145
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2023-06-21T07:27:06.979292Z",
+    "updated_at": "2023-06-21T07:27:06.979322Z",
+    "lead_time": 19.01
+  },
+  {
+    "img": "\/data\/upload\/3\/1bb19874-blue-grey-silver-gold-6.jpg",
+    "id": 7,
+    "kp-1": [
+      {
+        "x": 9.997689599565694,
+        "y": 33.6734693877551,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 11.863770347145298,
+        "y": 30.612244897959183,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 13.863282203405742,
+        "y": 36.734693877551024,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 34.391603927679625,
+        "y": 23.46938775510204,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 35.99121341268798,
+        "y": 19.387755102040817,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 37.7241236881137,
+        "y": 24.489795918367346,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 60.11865647823067,
+        "y": 33.6734693877551,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 61.45166438240429,
+        "y": 33.6734693877551,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 88.91162720838105,
+        "y": 31.63265306122449,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      },
+      {
+        "x": 91.31104143589359,
+        "y": 31.63265306122449,
+        "width": 0.2666015808347258,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 142
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2023-06-21T07:27:25.345845Z",
+    "updated_at": "2023-06-21T07:27:25.345876Z",
+    "lead_time": 17.491
+  },
+  {
+    "img": "\/data\/upload\/3\/a1fcbb6f-blue-grey-silver-gold-7.jpg",
+    "id": 8,
+    "kp-1": [
+      {
+        "x": 11.852630656678494,
+        "y": 31.428571428571427,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 13.850265037017568,
+        "y": 33.33333333333333,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 15.581548166644762,
+        "y": 33.33333333333333,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 34.2261357164761,
+        "y": 39.04761904761905,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 35.957418846103295,
+        "y": 40,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 59.92911420062133,
+        "y": 32.38095238095238,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 58.064572655189025,
+        "y": 23.809523809523807,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 61.52713891444343,
+        "y": 22.857142857142858,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 87.49638585885135,
+        "y": 28.57142857142857,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      },
+      {
+        "x": 85.49875147851228,
+        "y": 30.476190476190478,
+        "width": 0.26635125071187626,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 152
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2023-06-21T07:27:50.794051Z",
+    "updated_at": "2023-06-21T07:27:50.794079Z",
+    "lead_time": 23.804
+  },
+  {
+    "img": "\/data\/upload\/3\/7350c752-blue-grey-silver-gold-8.jpg",
+    "id": 9,
+    "kp-1": [
+      {
+        "x": 9.97340425531915,
+        "y": 34.28379023458811,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 11.96808510638298,
+        "y": 32.43061238406983,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 32.4468085106383,
+        "y": 23.16472313147845,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 33.909574468085104,
+        "y": 22.238134206219314,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 36.17021276595745,
+        "y": 22.238134206219314,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 58.37765957446809,
+        "y": 24.09131205673759,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 59.441489361702125,
+        "y": 22.238134206219314,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 61.303191489361694,
+        "y": 22.238134206219314,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 87.5,
+        "y": 18.53177850518276,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 89.22872340425532,
+        "y": 19.45908303053581,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 89.62765957446808,
+        "y": 36.13696808510639,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2023-06-21T07:28:09.952387Z",
+    "updated_at": "2023-06-21T07:28:09.952414Z",
+    "lead_time": 17.953
+  },
+  {
+    "img": "\/data\/upload\/3\/947e07f7-blue-grey-silver-gold-9.jpg",
+    "id": 10,
+    "kp-1": [
+      {
+        "x": 8.245056336360406,
+        "y": 35.64356435643564,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 10.106819676872657,
+        "y": 33.663366336633665,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 11.30370626759088,
+        "y": 33.663366336633665,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Blue"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 32.31528376673572,
+        "y": 34.65346534653465,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 34.044085901779034,
+        "y": 33.663366336633665,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 36.0388752766721,
+        "y": 34.65346534653465,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Grey"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 57.84837913414156,
+        "y": 28.71287128712871,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 59.84315082842231,
+        "y": 29.7029702970297,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 61.837922522703046,
+        "y": 31.683168316831683,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Silver"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 87.37100020949656,
+        "y": 38.613861386138616,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 89.09982002515218,
+        "y": 43.56435643564357,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      },
+      {
+        "x": 90.82860447958319,
+        "y": 37.62376237623762,
+        "width": 0.2659695592374325,
+        "keypointlabels": [
+          "Gold"
+        ],
+        "original_width": 1087,
+        "original_height": 146
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 105,
+    "created_at": "2023-06-21T07:28:32.149633Z",
+    "updated_at": "2023-06-21T07:28:32.149681Z",
+    "lead_time": 21.38
+  },
+  {
+    "img": "\/data\/upload\/3\/43bc97ef-brown-black-black-brown-brown-0.jpg",
+    "id": 11,
+    "kp-1": [
+      {
+        "x": 13.829787234042554,
+        "y": 23.056715833442112,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 15.292553191489361,
+        "y": 23.943512596266807,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 17.42021276595745,
+        "y": 25.720776051455264,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 30.851063829787233,
+        "y": 26.603902884740897,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 32.57978723404255,
+        "y": 30.151089936039682,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 33.77659574468085,
+        "y": 30.151089936039682,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 47.07446808510639,
+        "y": 30.151089936039682,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 48.8031914893617,
+        "y": 31.03788669886438,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 85.63829787234043,
+        "y": 26.603902884740897,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 87.5,
+        "y": 30.151089936039682,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 63.56382978723404,
+        "y": 25.7171061219162,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 65.1595744680851,
+        "y": 24.830309359091505,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 61.702127659574465,
+        "y": 25.7171061219162,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 106,
+    "created_at": "2023-06-21T07:29:10.991202Z",
+    "updated_at": "2023-06-21T07:29:10.991231Z",
+    "lead_time": 37.953
+  },
+  {
+    "img": "\/data\/upload\/3\/3b8b2cb4-brown-black-black-brown-brown-1.jpg",
+    "id": 12,
+    "kp-1": [
+      {
+        "x": 9.871205151793928,
+        "y": 35,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 11.872125114995399,
+        "y": 30.83333333333333,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 13.472861085556579,
+        "y": 31.666666666666664,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 15.473781048758047,
+        "y": 32.49999999999999,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 26.812327506899724,
+        "y": 32.49999999999999,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 28.813247470101196,
+        "y": 29.166666666666664,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 30.547378104875804,
+        "y": 28.333333333333332,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 32.28150873965041,
+        "y": 28.333333333333332,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 42.95308187672493,
+        "y": 30,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 45.220791168353266,
+        "y": 28.333333333333332,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 46.82152713891444,
+        "y": 28.333333333333332,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 59.62741490340386,
+        "y": 35,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 61.49469110014819,
+        "y": 33.33333333333333,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 63.09567617295308,
+        "y": 34.166666666666664,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 83.63845446182152,
+        "y": 28.333333333333332,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 82.43790248390064,
+        "y": 24.999999999999996,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      },
+      {
+        "x": 85.77276908923642,
+        "y": 30.83333333333333,
+        "width": 0.2667893284268629,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 174
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2023-06-21T07:29:31.243534Z",
+    "updated_at": "2023-06-21T07:29:31.243556Z",
+    "lead_time": 19.203
+  },
+  {
+    "img": "\/data\/upload\/3\/5967de1d-brown-black-black-brown-brown-2.jpg",
+    "id": 13,
+    "kp-1": [
+      {
+        "x": 15.45882089950047,
+        "y": 35.51401869158878,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 17.324540663233286,
+        "y": 35.51401869158878,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 19.1902604269661,
+        "y": 36.44859813084112,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 32.25029877309581,
+        "y": 33.64485981308411,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 33.84948714200965,
+        "y": 33.64485981308411,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 47.042791185548836,
+        "y": 30.8411214953271,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 49.30830804151012,
+        "y": 29.906542056074763,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 63.701003361734685,
+        "y": 35.51401869158878,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      },
+      {
+        "x": 85.55657773689053,
+        "y": 37.38317757009346,
+        "width": 0.2665313948189736,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 155
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2023-06-21T07:29:43.948272Z",
+    "updated_at": "2023-06-21T07:29:43.948294Z",
+    "lead_time": 11.915
+  },
+  {
+    "img": "\/data\/upload\/3\/e81117c8-brown-black-black-brown-brown-3.jpg",
+    "id": 14,
+    "kp-1": [
+      {
+        "x": 11.96808510638298,
+        "y": 30.716422872340427,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 13.829787234042554,
+        "y": 27.10272606382979,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 15.425531914893616,
+        "y": 27.10272606382979,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 17.420212765957448,
+        "y": 28.909574468085108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 30.45212765957447,
+        "y": 25.295877659574472,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 32.180851063829785,
+        "y": 28.00615026595745,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 46.67553191489361,
+        "y": 31.619847074468087,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 48.53723404255319,
+        "y": 28.00615026595745,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 61.569148936170215,
+        "y": 28.909574468085108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 63.03191489361703,
+        "y": 27.10272606382979,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 85.1063829787234,
+        "y": 30.716422872340427,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      },
+      {
+        "x": 87.5,
+        "y": 34.33011968085107,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 160
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2023-06-21T07:30:07.032319Z",
+    "updated_at": "2023-06-21T07:30:07.032349Z",
+    "lead_time": 13.549
+  },
+  {
+    "img": "\/data\/upload\/3\/4609d85e-brown-black-black-brown-brown-4.jpg",
+    "id": 15,
+    "kp-1": [
+      {
+        "x": 13.563829787234042,
+        "y": 26.36407734510906,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 15.558510638297873,
+        "y": 25.45497122976047,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 17.287234042553195,
+        "y": 25.45497122976047,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 30.585106382978722,
+        "y": 28.182289575806234,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 31.914893617021278,
+        "y": 27.273183460457652,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 34.441489361702125,
+        "y": 26.36407734510906,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 47.07446808510639,
+        "y": 36.364244613943534,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 48.67021276595745,
+        "y": 33.63692626789776,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 63.430851063829785,
+        "y": 34.546032383246356,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 65.1595744680851,
+        "y": 26.36407734510906,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 87.5,
+        "y": 36.364244613943534,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      },
+      {
+        "x": 88.82978723404256,
+        "y": 31.81871403720059,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 159
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2023-06-21T07:30:17.032919Z",
+    "updated_at": "2023-06-21T07:30:17.032942Z",
+    "lead_time": 9.138
+  },
+  {
+    "img": "\/data\/upload\/3\/6fb23d74-brown-black-black-brown-brown-5.jpg",
+    "id": 16,
+    "kp-1": [
+      {
+        "x": 12.101063829787234,
+        "y": 38.349435518888406,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 13.563829787234042,
+        "y": 39.82441380807643,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 15.691489361702127,
+        "y": 42.036881241858445,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 10.106382978723403,
+        "y": 39.08692466348242,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 28.723404255319153,
+        "y": 36.87445722970039,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 30.319148936170215,
+        "y": 36.13696808510639,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 46.67553191489361,
+        "y": 34.661989795918366,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 61.96808510638297,
+        "y": 44.24934867564047,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 63.56382978723404,
+        "y": 37.611946374294405,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      },
+      {
+        "x": 85.37234042553192,
+        "y": 42.036881241858445,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 196
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2023-06-21T07:30:30.599214Z",
+    "updated_at": "2023-06-21T07:30:30.599242Z",
+    "lead_time": 11.845
+  },
+  {
+    "img": "\/data\/upload\/3\/f9c98266-brown-black-black-brown-brown-6.jpg",
+    "id": 17,
+    "kp-1": [
+      {
+        "x": 14.095744680851062,
+        "y": 31.768763151741876,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 12.23404255319149,
+        "y": 30.180324994154784,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 15.957446808510639,
+        "y": 33.35720130932897,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 30.585106382978722,
+        "y": 38.12251578209025,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 31.78191489361702,
+        "y": 38.91673486088379,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 46.941489361702125,
+        "y": 31.768763151741876,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 63.29787234042554,
+        "y": 35.73985854570961,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 65.55851063829788,
+        "y": 33.35720130932897,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 85.37234042553192,
+        "y": 42.09361117605799,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      },
+      {
+        "x": 87.36702127659575,
+        "y": 42.09361117605799,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 182
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2023-06-21T07:30:41.931399Z",
+    "updated_at": "2023-06-21T07:30:41.931428Z",
+    "lead_time": 10.471
+  },
+  {
+    "img": "\/data\/upload\/3\/3db20dd2-brown-black-black-brown-brown-7.jpg",
+    "id": 18,
+    "kp-1": [
+      {
+        "x": 14.112085923067141,
+        "y": 26.82926829268293,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 15.443414783733852,
+        "y": 26.82926829268293,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 17.57354096080059,
+        "y": 28.455284552845526,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 30.088032251067677,
+        "y": 26.01626016260163,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 48.992902072534974,
+        "y": 30.081300813008134,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 47.5284403258016,
+        "y": 27.64227642276423,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 32.218158428134416,
+        "y": 24.390243902439025,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 61.50739336280206,
+        "y": 32.52032520325203,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 63.504386653802136,
+        "y": 26.01626016260163,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 85.20504708266952,
+        "y": 30.89430894308943,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      },
+      {
+        "x": 87.6014390318696,
+        "y": 30.081300813008134,
+        "width": 0.2662657721333423,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 178
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2023-06-21T07:31:00.478799Z",
+    "updated_at": "2023-06-21T07:31:00.478822Z",
+    "lead_time": 11.894
+  },
+  {
+    "img": "\/data\/upload\/3\/327a7fab-brown-black-black-brown-brown-8.jpg",
+    "id": 19,
+    "kp-1": [
+      {
+        "x": 11.717426039800513,
+        "y": 26.31578947368421,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 13.581562000677868,
+        "y": 19.298245614035086,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 15.57885053018932,
+        "y": 19.298245614035086,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 30.35878564857406,
+        "y": 21.052631578947366,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 47.00285672783615,
+        "y": 21.929824561403507,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 45.1387207669588,
+        "y": 18.421052631578945,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 48.60068755144531,
+        "y": 18.421052631578945,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 28.494649687696704,
+        "y": 15.789473684210526,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 32.48922674671961,
+        "y": 17.543859649122805,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 61.3833341403186,
+        "y": 24.561403508771928,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 63.114317532561856,
+        "y": 21.929824561403507,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 85.48396087996603,
+        "y": 16.666666666666664,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 83.61981310221276,
+        "y": 17.543859649122805,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      },
+      {
+        "x": 87.34808502396746,
+        "y": 23.684210526315788,
+        "width": 0.2663051372681935,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 165
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2023-06-21T07:34:59.597723Z",
+    "updated_at": "2023-06-21T07:34:59.597753Z",
+    "lead_time": 237.459
+  },
+  {
+    "img": "\/data\/upload\/3\/82d698c0-brown-black-black-brown-brown-9.jpg",
+    "id": 20,
+    "kp-1": [
+      {
+        "x": 11.855525008337258,
+        "y": 30.4,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 13.454277828886843,
+        "y": 28.799999999999997,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 15.452437902483899,
+        "y": 30.4,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 30.262820561557703,
+        "y": 27.107438016528917,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 46.886631642172325,
+        "y": 29.09090909090909,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 61.528796368806404,
+        "y": 20.495867768595037,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 63.180168330456866,
+        "y": 21.157024793388427,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 85.30855261657302,
+        "y": 19.83471074380165,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      },
+      {
+        "x": 87.51038189877363,
+        "y": 16.52892561983471,
+        "width": 0.26642134314627414,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 181
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2023-06-21T07:35:15.165178Z",
+    "updated_at": "2023-06-21T07:35:15.165205Z",
+    "lead_time": 14.722
+  },
+  {
+    "img": "\/data\/upload\/3\/50de04ce-brown-black-black-orange-brown-0.jpg",
+    "id": 21,
+    "kp-1": [
+      {
+        "x": 21.01063829787234,
+        "y": 36.82748339883453,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 19.414893617021274,
+        "y": 36.82748339883453,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 35.638297872340424,
+        "y": 36.82748339883453,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 48.67021276595745,
+        "y": 38.668857568776254,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 49.734042553191486,
+        "y": 34.9861092288928,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 51.46276595744681,
+        "y": 34.9861092288928,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 63.16489361702128,
+        "y": 41.43091882368884,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 85.1063829787234,
+        "y": 35.906796313863666,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 87.5,
+        "y": 38.668857568776254,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 89.36170212765957,
+        "y": 41.43091882368884,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 90.69148936170212,
+        "y": 42.351605908659714,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 63.56382978723405,
+        "y": 31.30336088900935,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 64.8936170212766,
+        "y": 31.30336088900935,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 67.15425531914893,
+        "y": 31.30336088900935,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 61.43617021276596,
+        "y": 32.22404797398021,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 68.61702127659575,
+        "y": 33.14473505895108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2023-06-21T07:35:37.151289Z",
+    "updated_at": "2023-06-21T07:36:12.883312Z",
+    "lead_time": 41.551
+  },
+  {
+    "img": "\/data\/upload\/3\/67dc0439-brown-black-black-orange-brown-1.jpg",
+    "id": 22,
+    "kp-1": [
+      {
+        "x": 9.97340425531915,
+        "y": 34.86154568210263,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 12.367021276595745,
+        "y": 34.011264080100126,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 13.962765957446807,
+        "y": 35.71182728410513,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 24.867021276595743,
+        "y": 35.71182728410513,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 26.46276595744681,
+        "y": 34.011264080100126,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 41.62234042553192,
+        "y": 30.610137672090115,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 43.08510638297872,
+        "y": 30.610137672090115,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 54.52127659574468,
+        "y": 29.759856070087608,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 56.11702127659575,
+        "y": 28.909574468085108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 58.11170212765957,
+        "y": 24.658166458072593,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 59.57446808510638,
+        "y": 28.909574468085108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 78.05851063829788,
+        "y": 28.059292866082604,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 80.0531914893617,
+        "y": 28.909574468085108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      },
+      {
+        "x": 81.64893617021278,
+        "y": 27.2090112640801,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 170
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2023-06-21T07:36:28.163786Z",
+    "updated_at": "2023-06-21T07:36:28.163817Z",
+    "lead_time": 13.169
+  },
+  {
+    "img": "\/data\/upload\/3\/da1adab4-brown-black-black-orange-brown-2.jpg",
+    "id": 23,
+    "kp-1": [
+      {
+        "x": 11.975949533447235,
+        "y": 30.357142857142854,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 13.572742804573531,
+        "y": 25.892857142857146,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 26.74628729136549,
+        "y": 29.464285714285715,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 43.379550532264425,
+        "y": 27.67857142857143,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 56.02083059534762,
+        "y": 33.035714285714285,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 57.48455776054673,
+        "y": 30.357142857142854,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 59.746681561308975,
+        "y": 33.92857142857143,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 78.10980417926142,
+        "y": 33.92857142857143,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 80.10579576816927,
+        "y": 33.035714285714285,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      },
+      {
+        "x": 81.96872125114996,
+        "y": 35.714285714285715,
+        "width": 0.266132211854383,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 162
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2023-06-21T07:36:47.024404Z",
+    "updated_at": "2023-06-21T07:36:47.024431Z",
+    "lead_time": 17.805
+  },
+  {
+    "img": "\/data\/upload\/3\/8af226cc-brown-black-black-orange-brown-3.jpg",
+    "id": 24,
+    "kp-1": [
+      {
+        "x": 10.23936170212766,
+        "y": 36.38279779997106,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 12.101063829787234,
+        "y": 40.31607323780577,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 13.563829787234042,
+        "y": 41.299392097264445,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 26.99468085106383,
+        "y": 40.31607323780577,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 25.265957446808514,
+        "y": 38.349435518888406,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 28.324468085106385,
+        "y": 44.24934867564047,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 41.22340425531915,
+        "y": 34.4161600810537,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 43.484042553191486,
+        "y": 33.43284122159502,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 44.9468085106383,
+        "y": 33.43284122159502,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 55.98404255319149,
+        "y": 29.499565783760318,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 57.31382978723404,
+        "y": 27.53292806484296,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 59.97340425531915,
+        "y": 32.44952236213635,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 78.19148936170212,
+        "y": 37.366116659429736,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 79.65425531914893,
+        "y": 37.366116659429736,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 76.72872340425532,
+        "y": 25.56629034592561,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      },
+      {
+        "x": 81.64893617021278,
+        "y": 32.44952236213635,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 147
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2023-06-21T07:37:07.295537Z",
+    "updated_at": "2023-06-21T07:37:07.295635Z",
+    "lead_time": 19.206
+  },
+  {
+    "img": "\/data\/upload\/3\/d84bdaa3-brown-black-black-orange-brown-4.jpg",
+    "id": 25,
+    "kp-1": [
+      {
+        "x": 8.643617021276597,
+        "y": 29.264293173214988,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 6.648936170212766,
+        "y": 33.698276987338474,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 10.106382978723403,
+        "y": 33.698276987338474,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 23.27127659574468,
+        "y": 25.7171061219162,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 24.73404255319149,
+        "y": 23.943512596266807,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 39.8936170212766,
+        "y": 28.37749641039029,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 41.48936170212766,
+        "y": 28.37749641039029,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 54.25531914893617,
+        "y": 31.03788669886438,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 55.71808510638297,
+        "y": 30.151089936039682,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 57.71276595744681,
+        "y": 32.81148022451377,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 78.05851063829788,
+        "y": 28.37749641039029,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      },
+      {
+        "x": 79.65425531914893,
+        "y": 27.4906996475656,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 163
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 120,
+    "created_at": "2023-06-21T07:37:22.082771Z",
+    "updated_at": "2023-06-21T07:37:22.082801Z",
+    "lead_time": 13.764
+  },
+  {
+    "img": "\/data\/upload\/3\/9b406cec-brown-black-black-orange-brown-5.jpg",
+    "id": 26,
+    "kp-1": [
+      {
+        "x": 6.128858293944105,
+        "y": 28.448275862068968,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 7.727690892364306,
+        "y": 29.310344827586203,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 21.584240078672714,
+        "y": 29.310344827586203,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 22.650128477619518,
+        "y": 30.17241379310345,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 37.57256606287473,
+        "y": 29.310344827586203,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 39.571106810899984,
+        "y": 33.62068965517241,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 50.76293499984139,
+        "y": 34.48275862068966,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 52.22853154839324,
+        "y": 31.896551724137932,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 53.96060019668178,
+        "y": 32.758620689655174,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 55.692908500622195,
+        "y": 31.03448275862069,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 72.61324775216438,
+        "y": 32.758620689655174,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      },
+      {
+        "x": 74.61218792627605,
+        "y": 33.62068965517241,
+        "width": 0.2664720997367002,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 168
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2023-06-21T07:37:47.189748Z",
+    "updated_at": "2023-06-21T07:37:47.189778Z",
+    "lead_time": 23.442
+  },
+  {
+    "img": "\/data\/upload\/3\/197b8387-brown-black-black-orange-brown-6.jpg",
+    "id": 27,
+    "kp-1": [
+      {
+        "x": 8.24468085106383,
+        "y": 45.40285733769777,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 9.574468085106384,
+        "y": 43.54967948717949,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 24.73404255319149,
+        "y": 40.76991271140207,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 23.404255319148938,
+        "y": 38.9167348608838,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 41.22340425531915,
+        "y": 31.504023458810693,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 43.08510638297872,
+        "y": 31.504023458810693,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 56.11702127659575,
+        "y": 31.504023458810693,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 57.71276595744681,
+        "y": 34.28379023458811,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 54.52127659574468,
+        "y": 39.84332378614294,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 80.45212765957447,
+        "y": 43.54967948717949,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 78.32446808510637,
+        "y": 42.62309056192035,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      },
+      {
+        "x": 81.64893617021278,
+        "y": 46.3294462629569,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 156
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 122,
+    "created_at": "2023-06-21T07:38:06.766488Z",
+    "updated_at": "2023-06-21T07:38:06.766518Z",
+    "lead_time": 18.125
+  },
+  {
+    "img": "\/data\/upload\/3\/3d7c4832-brown-black-black-orange-brown-7.jpg",
+    "id": 28,
+    "kp-1": [
+      {
+        "x": 8.377659574468085,
+        "y": 35.9007787512168,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 9.97340425531915,
+        "y": 38.73505075789181,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 24.867021276595743,
+        "y": 32.121749408983455,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 23.138297872340424,
+        "y": 37.79029342233348,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 26.329787234042552,
+        "y": 35.9007787512168,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 41.755319148936174,
+        "y": 40.624565429008484,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 39.62765957446808,
+        "y": 48.18262411347518,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 43.351063829787236,
+        "y": 49.12738144903352,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 54.38829787234043,
+        "y": 29.287477402308443,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 56.25,
+        "y": 30.232234737866783,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 57.579787234042556,
+        "y": 34.011264080100126,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 60.23936170212766,
+        "y": 35.9007787512168,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 78.19148936170212,
+        "y": 38.73505075789181,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 79.7872340425532,
+        "y": 38.73505075789181,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 76.4627659574468,
+        "y": 43.45883743568349,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      },
+      {
+        "x": 82.18085106382979,
+        "y": 43.45883743568349,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 153
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2023-06-21T07:38:29.275849Z",
+    "updated_at": "2023-06-21T07:38:29.275877Z",
+    "lead_time": 21.601
+  },
+  {
+    "img": "\/data\/upload\/3\/e2731afd-brown-black-black-orange-brown-8.jpg",
+    "id": 29,
+    "kp-1": [
+      {
+        "x": 8.24468085106383,
+        "y": 32.547203043539525,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 9.97340425531915,
+        "y": 34.46174439904185,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 12.101063829787233,
+        "y": 38.28227472593231,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 24.73404255319149,
+        "y": 44.991721854304636,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 26.861702127659576,
+        "y": 47.86353388755813,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 41.48936170212766,
+        "y": 39.24809778779766,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 43.08510638297872,
+        "y": 37.33355643229533,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 54.38829787234043,
+        "y": 37.33355643229533,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 56.25,
+        "y": 36.38483813865836,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 57.31382978723404,
+        "y": 40.20536846554882,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 59.57446808510638,
+        "y": 44.034451176553475,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 78.05851063829788,
+        "y": 36.37628575454418,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 79.7872340425532,
+        "y": 38.2908271100465,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 81.91489361702128,
+        "y": 40.20536846554882,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      },
+      {
+        "x": 83.51063829787235,
+        "y": 41.162639143299984,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 151
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 124,
+    "created_at": "2023-06-21T07:38:53.475381Z",
+    "updated_at": "2023-06-21T07:38:53.475408Z",
+    "lead_time": 23.299
+  },
+  {
+    "img": "\/data\/upload\/3\/553deb04-brown-black-black-orange-brown-9.jpg",
+    "id": 30,
+    "kp-1": [
+      {
+        "x": 11.569148936170212,
+        "y": 26.699925464155033,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 9.97340425531915,
+        "y": 32.22404797398021,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 13.563829787234042,
+        "y": 27.620612549125894,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 27.127659574468083,
+        "y": 29.461986719067625,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 28.058510638297875,
+        "y": 28.541299634096763,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 44.9468085106383,
+        "y": 31.30336088900935,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 59.308510638297875,
+        "y": 38.668857568776254,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 57.71276595744681,
+        "y": 38.668857568776254,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 61.03723404255319,
+        "y": 38.668857568776254,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 80.18617021276596,
+        "y": 33.14473505895108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 81.64893617021278,
+        "y": 33.14473505895108,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      },
+      {
+        "x": 83.24468085106383,
+        "y": 35.906796313863666,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Brown"
+        ],
+        "original_width": 1087,
+        "original_height": 157
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 125,
+    "created_at": "2023-06-21T07:39:56.549454Z",
+    "updated_at": "2023-06-21T07:39:56.549478Z",
+    "lead_time": 61.072
+  },
+  {
+    "img": "\/data\/upload\/3\/f4d24e98-brown-black-black-orange-brown-10.jpg",
+    "id": 31,
+    "kp-1": [
+      {
+        "x": 58.77659574468085,
+        "y": 38.038913773796196,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Orange"
+        ],
+        "original_width": 1087,
+        "original_height": 190
+      },
+      {
+        "x": 42.819148936170215,
+        "y": 44.88591825307951,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 190
+      },
+      {
+        "x": 44.547872340425535,
+        "y": 43.36436170212766,
+        "width": 0.26595744680851063,
+        "keypointlabels": [
+          "Black"
+        ],
+        "original_width": 1087,
+        "original_height": 190
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 126,
+    "created_at": "2023-06-21T07:40:12.509870Z",
+    "updated_at": "2023-06-21T07:40:12.509898Z",
+    "lead_time": 15.047
+  }
+]
