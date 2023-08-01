@@ -1,16 +1,18 @@
-# ResistorPredict
+# ResistorPrediction
 
-ResistorPredict is an experimental machine learning project done over Summer break 2023. It predicts the resistance of a 4-band resistor by giving it an image of a resistor as the input.
+ResistorPrediction is an overengineered approach to use computer vision [OpenCV] + machine learning project done over Summer break 2023. It predicts the resistance of a 4-band resistor by giving it an image of a resistor as the input.
+
+It's basically a colour classification model wrapped with some logic.
 
 The project might find use in applications in areas such as Robotic Process Automation and Education. 
 
-Caveat: This project is NOT production ready. It's upper bound accuracy is 60% based on the limited dataset testing. 
+This project is NOT production ready. It's upper bound accuracy is 60% based on the limited dataset. 
 
 ## Navigating the Repo
-The important bits are in the jupyter notebooks.
-1. Image cleaning @ `exploration_raw_images.ipynb`
+The important bits (methodology + experiments) are in the jupyter notebooks.
+1. Image preprocessing @ `exploration_raw_images.ipynb`
 2. Labelled data experiments @ `exploration_labelled_data.ipynb`
-3. Color prediction ML experiments @ `prediction_experiments.ipynb`
+3. Color classification ML experiments @ `prediction_experiments.ipynb`
 4. Predicting Resistors @ `prodction_resistor_prediction.ipynb`
 
 ## Overview
@@ -27,7 +29,7 @@ To summarise, out of 90 datapoints:
 - Perfect predictions: `36`
 - Partially correct predictions: `18`  
   
-Partially correct predictions are predictions where the first three bands of the resistor are correctly identified. This is "good enough" to get the resistance as the last band is the tolerance.
+Partially correct predictions are predictions where the first three bands of the resistor are correctly identified. This is "good enough" to get the resistance as the last band is the tolerance value.
 
 ## Purpose and Rationale 
 
@@ -53,6 +55,11 @@ The problem statement create the resistor prediction algorithm, a few subproblem
 
 
 ### Known Limitations
-- Only 4 band resistors will work.
-- Pictures with very bright or very dark settings will fail to work well in preprocessing
-- Unusual resistors with non-beige background colors (such as blue, grey) will fail when digested with the resistor predct SVM
+- Only 4 band resistors will work
+- Pictures with very bright or very dark settings will fail to work in preprocessing
+- Unusual resistors with non-beige background colours (such as blue, grey) will likely fail when processed by the Colour Classification SVM
+
+### Area for Improvements
+More data and rigorous labelling will be needed to make the Colour classifier more accurate.  
+
+Colour masking might be needed during the preprocessing stage. This approach was initially avoided in order to prevent presupposing certain ranges for colours which is not generalizable to different lighting conditions.
