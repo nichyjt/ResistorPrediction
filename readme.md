@@ -12,6 +12,7 @@ This project is NOT production ready. It's upper bound accuracy is 60% based on 
 The important bits (methodology + experiments) are in the jupyter notebooks.
 1. Image preprocessing @ `exploration_raw_images.ipynb`
 2. Labelled data experiments @ `exploration_labelled_data.ipynb`
+   Note: The 3D plots here are not rendered on GitHub, you will have to clone the repo or see my writeup to see the insights from the 3D plots
 3. Color classification ML experiments @ `prediction_experiments.ipynb`
 4. Predicting Resistors @ `prodction_resistor_prediction.ipynb`
 
