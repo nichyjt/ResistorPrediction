@@ -17,6 +17,7 @@ The important bits (methodology + experiments) are in the jupyter notebooks.
 4. Predicting Resistors @ `prodction_resistor_prediction.ipynb`
 
 ## Overview
+More in-depth technical writeups are OTW to my blog. But for now... 
 
 TLDR: How is resistance predicted?
 
