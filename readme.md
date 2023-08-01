@@ -6,7 +6,15 @@ The project might find use in applications in areas such as Robotic Process Auto
 
 Caveat: This project is NOT production ready. It's upper bound accuracy is 60% based on the limited dataset testing. 
 
-### Overview
+## Navigating the Repo
+The important bits are in the jupyter notebooks.
+1. Image cleaning @ `exploration_raw_images.ipynb`
+2. Labelled data experiments @ `exploration_labelled_data.ipynb`
+3. Color prediction ML experiments @ `prediction_experiments.ipynb`
+4. Predicting Resistors @ `prodction_resistor_prediction.ipynb`
+
+## Overview
+
 TLDR: How is resistance predicted?
 
 ![Workflow](docs/resistorpredict_overall.png)
